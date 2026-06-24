@@ -23,13 +23,6 @@ Still figuring out exactly where I want to land, but I'm drawn to anything at th
 
 ---
 
-## github stat
-
-![yashxp10's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashxp10&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashxp10&layout=compact&hide_border=true)
-
----
-
 ## Let's connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
